@@ -13,6 +13,6 @@ int main(void)
 	{
 		printf("%-10d %-10d %-10d\n", i, i * i, i * i * i);
 	}
-	
+	#哈哈哈哈哈哈哈哈，真有意思
 	return 0;
 }
